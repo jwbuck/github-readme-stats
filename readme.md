@@ -528,7 +528,7 @@ Since the GitHub API only allows 5k requests per hour, my `https://github-readme
 10. Create a personal access token (PAT) [here](https://github.com/settings/tokens/new) and enable the `repo` permissions (this allows access to see private repo stats).
 11. Add the PAT as an environment variable named `PAT_1` (as shown).
     ![](https://files.catbox.moe/0yclio.png)
-12. Click deploy, and you're good to go. See your domains to use the API!
+12. Click deploy, and you're good to go. Set your domains to use the API!
 
 </details>
 
